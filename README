@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1040
+
+When pressing <F2> and arrow keys, you get to switch quickly between buffers.
+This plugin is usable in both console and gui mode.
+
